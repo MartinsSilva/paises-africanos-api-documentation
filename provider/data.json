@@ -20,7 +20,7 @@
 		"area": "1.229.080",
 		"population": "43.800.000",
 		"climate": "",
-		"flag": ""
+		"flag": "https://i.ibb.co/17SFhb9/Africa-South-Africa.png"
 	},
 	{
 		"id": 2,
@@ -41,7 +41,9 @@
 		"percentageOfPoverty": "70%",
 		"idh": "37.92",
 		"area": "1.246.700",
-		"population": "19.500.000"
+		"population": "19.500.000",
+		"climate": "",
+		"flag": "https://i.ibb.co/rfrcFJJ/Africa-Angola.png"
 	},
 	{
 		"id": 3,
@@ -62,7 +64,9 @@
 		"percentageOfPoverty": "25%",
 		"idh": "73.77",
 		"area": "30.000.000",
-		"population": "51.200.000"
+		"population": "51.200.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 4,
@@ -83,7 +87,9 @@
 		"percentageOfPoverty": "33%",
 		"idh": "53.85",
 		"area": "1.112.622",
-		"population": "6.400.000"
+		"population": "6.400.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 5,
@@ -104,7 +110,9 @@
 		"percentageOfPoverty": "30%",
 		"idh": "50.16",
 		"area": "581.730",
-		"population": "1.600.00"
+		"population": "1.600.00",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 6,
@@ -125,7 +133,9 @@
 		"percentageOfPoverty": "45%",
 		"idh": "52.55",
 		"area": "274.200",
-		"population": "11.900.000"
+		"population": "11.900.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 7,
@@ -146,7 +156,9 @@
 		"percentageOfPoverty": "68%",
 		"idh": "51.71",
 		"area": "27.834",
-		"population": "6.500.000"
+		"population": "6.500.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 8,
@@ -167,7 +179,9 @@
 		"percentageOfPoverty": "30%",
 		"idh": "71.33",
 		"area": "4.033",
-		"population": "437.000"
+		"population": "437.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 10,
@@ -188,7 +202,9 @@
 		"percentageOfPoverty": "40%",
 		"idh": "53.30",
 		"area": "474.442",
-		"population": "15.200.000"
+		"population": "15.200.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 11,
@@ -209,7 +225,9 @@
 		"percentageOfPoverty": "null",
 		"idh": "53.74",
 		"area": "342.000",
-		"population": "3.100.000"
+		"population": "3.100.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 12,
@@ -230,7 +248,9 @@
 		"percentageOfPoverty": "null",
 		"idh": "53.98",
 		"area": "2.344.885",
-		"population": "52.500000"
+		"population": "52.500000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 13,
@@ -251,7 +271,9 @@
 		"percentageOfPoverty": "60%",
 		"idh": "63.10",
 		"area": "1.862",
-		"population": "727.000"
+		"population": "727.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 14,
@@ -272,7 +294,9 @@
 		"percentageOfPoverty": "47%",
 		"idh": "49.18",
 		"area": "322.462",
-		"population": "16.300.000"
+		"population": "16.300.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 15,
@@ -293,7 +317,9 @@
 		"percentageOfPoverty": "50%",
 		"idh": "43.31",
 		"area": "23.200",
-		"population": "644.000"
+		"population": "644.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 16,
@@ -314,7 +340,9 @@
 		"percentageOfPoverty": "20%",
 		"idh": "71.85",
 		"area": "997.738",
-		"population": "69.100.000"
+		"population": "69.100.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 17,
@@ -335,7 +363,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "60.05",
 		"area": "121.144",
-		"population": "3.800.000"
+		"population": "3.800.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 18,
@@ -356,7 +386,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "49.43",
 		"area": "1.133.380",
-		"population": "64.500.000"
+		"population": "64.500.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 19,
@@ -377,7 +409,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "53.52",
 		"area": "267.667",
-		"population": "1.300.000"
+		"population": "1.300.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 20,
@@ -398,7 +432,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "54.95",
 		"area": "11.295",
-		"population": "1.337.000"
+		"population": "1.337.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 21,
@@ -419,7 +455,9 @@
 		"percentageOfPoverty": "31%",
 		"lifeExpectancy": "59.49",
 		"area": "238.537",
-		"population": "19.700.000"
+		"population": "19.700.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 22,
@@ -440,7 +478,9 @@
 		"percentageOfPoverty": "40%",
 		"lifeExpectancy": "49.80",
 		"area": "245.857",
-		"population": "8.300.000"
+		"population": "8.300.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 23,
@@ -461,7 +501,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "47.52",
 		"area": "36.125",
-		"population": "1.200.000"
+		"population": "1.200.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 24,
@@ -482,7 +524,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "61.23",
 		"area": "26.051",
-		"population": "470.000"
+		"population": "470.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 25,
@@ -503,7 +547,9 @@
 		"percentageOfPoverty": "80%",
 		"lifeExpectancy": "41.13",
 		"area": "97.754",
-		"population": "3.100.000"
+		"population": "3.100.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 26,
@@ -524,7 +570,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "43.31",
 		"area": "1.775.500",
-		"population": "5.400.000"
+		"population": "5.400.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 27,
@@ -545,7 +593,9 @@
 		"percentageOfPoverty": "49%",
 		"lifeExpectancy": "40.17",
 		"area": "30.355",
-		"population": "2.100.000"
+		"population": "2.100.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 28,
@@ -566,7 +616,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "62.52",
 		"area": "587.041",
-		"population": "16.400.000"
+		"population": "16.400.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 29,
@@ -587,7 +639,9 @@
 		"percentageOfPoverty": "55%",
 		"lifeExpectancy": "43.45",
 		"area": "118.484",
-		"population": "11.600.000"
+		"population": "11.600.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 30,
@@ -608,7 +662,9 @@
 		"percentageOfPoverty": "64%",
 		"lifeExpectancy": "43.31",
 		"area": "1.240.192",
-		"population": "11.700.000"
+		"population": "11.700.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 31,
@@ -629,7 +685,9 @@
 		"percentageOfPoverty": "10%",
 		"lifeExpectancy": "73.75",
 		"area": "2.040",
-		"population": "1.200.000"
+		"population": "1.200.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 32,
@@ -650,7 +708,9 @@
 		"percentageOfPoverty": "40%",
 		"lifeExpectancy": "53.91",
 		"area": "1.030.700",
-		"population": "2.700.000"
+		"population": "2.700.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 33,
@@ -694,7 +754,9 @@
 		"percentageOfPoverty": "70%",
 		"lifeExpectancy": "41.64",
 		"area": "799.380",
-		"population": "18.600.000"
+		"population": "18.600.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 35,
@@ -715,7 +777,9 @@
 		"percentageOfPoverty": "56%",
 		"lifeExpectancy": "49.89",
 		"area": "824.292",
-		"population": "1.800.000"
+		"population": "1.800.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 36,
@@ -736,7 +800,9 @@
 		"percentageOfPoverty": "63%",
 		"lifeExpectancy": "44.28",
 		"area": "1.267.000",
-		"population": "116.900.000"
+		"population": "116.900.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 37,
@@ -757,7 +823,9 @@
 		"percentageOfPoverty": "60%",
 		"lifeExpectancy": "47.81",
 		"area": "1.267.000",
-		"population": "116.900.000"
+		"population": "116.900.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 38,
@@ -778,7 +846,9 @@
 		"percentageOfPoverty": "50%",
 		"lifeExpectancy": "56.64",
 		"area": "580.367",
-		"population": "31.300.000"
+		"population": "31.300.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 39,
@@ -799,7 +869,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "43.97",
 		"area": "622.984",
-		"population": "3.800.000"
+		"population": "3.800.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 40,
@@ -820,7 +892,9 @@
 		"percentageOfPoverty": "60%",
 		"lifeExpectancy": "49.76",
 		"area": "26.338",
-		"population": "7.900.000"
+		"population": "7.900.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 41,
@@ -841,7 +915,9 @@
 		"percentageOfPoverty": "54%",
 		"lifeExpectancy": "68.60",
 		"area": "1.000",
-		"population": "428.000"
+		"population": "428.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 42,
@@ -862,7 +938,9 @@
 		"percentageOfPoverty": "54%",
 		"lifeExpectancy": "57.08",
 		"area": "196.722",
-		"population": "9.700.000"
+		"population": "9.700.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 43,
@@ -883,7 +961,9 @@
 		"percentageOfPoverty": "68%",
 		"lifeExpectancy": "40.93",
 		"area": "71.740",
-		"population": "4.600.000"
+		"population": "4.600.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 44,
@@ -904,7 +984,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "72.60",
 		"area": "null",
-		"population": "null"
+		"population": "null",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 45,
@@ -925,7 +1007,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "49.25",
 		"area": "637.657",
-		"population": "9.200.000"
+		"population": "9.200.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 46,
@@ -946,7 +1030,9 @@
 		"percentageOfPoverty": "69%",
 		"lifeExpectancy": "31.99",
 		"area": "17.363",
-		"population": "938.000"
+		"population": "938.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 47,
@@ -967,7 +1053,9 @@
 		"percentageOfPoverty": "40%",
 		"lifeExpectancy": "50.28",
 		"area": "2.505.813",
-		"population": "31.800.000"
+		"population": "31.800.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 48,
@@ -988,7 +1076,9 @@
 		"percentageOfPoverty": "null",
 		"lifeExpectancy": "43.31",
 		"area": "null",
-		"population": "null"
+		"population": "null",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 49,
@@ -1009,7 +1099,9 @@
 		"percentageOfPoverty": "36%",
 		"lifeExpectancy": "51.45",
 		"area": "945.087",
-		"population": "36.000.000"
+		"population": "36.000.000",
+		"climate": "",
+		"flag": ""
 	},
 	{
 		"id": 50,
