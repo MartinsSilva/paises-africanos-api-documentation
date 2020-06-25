@@ -8,10 +8,17 @@
 
 ## Como consumir a API 🧐
 
-- Faça uma requisição GET na API na url `http://url/countries`
-retornará um json com todos os países: <br>;
+- Faça uma requisição GET na API na url `https://paises-africanos-api.herokuapp.com/countries`
+retorna todos os países no formato json.
 
 - Exemplo de requisição com parâmetro: <br>
-`http://url/countries/{id_do_país}` - retornará um json com o país correspondente a ID.
+`https://paises-africanos-api.herokuapp.com/countries/{id_do_país}` - retorna um json com o país correspondente a ID.
+
+## Com o que eu posso contribuir 🐱‍🏍
+
+- Você pode contribuir de diversas maneiras: Melhorando a documentação, aumentando mais endpoints ou dados nos países ou ainda deixando o seu `star` na API.
 
 ## Como contribuir 🎨
+
+1. Envie - me uma solicitação de sugestões ou alterações no meu email `gouveiamartins6@gmail.com` ou faça um `issue`.
+4. Enjoy 🥰🥰.
